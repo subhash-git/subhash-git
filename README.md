@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @subhash-git
+- 👋 Hi, I’m @subhash
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Coding concepts
